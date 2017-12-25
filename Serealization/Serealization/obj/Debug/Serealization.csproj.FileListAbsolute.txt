@@ -1,0 +1,6 @@
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Serealization\Serealization\bin\Debug\Serealization.exe.config
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Serealization\Serealization\bin\Debug\Serealization.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Serealization\Serealization\bin\Debug\Serealization.pdb
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Serealization\Serealization\obj\Debug\Serealization.csprojResolveAssemblyReference.cache
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Serealization\Serealization\obj\Debug\Serealization.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Serealization\Serealization\obj\Debug\Serealization.pdb

@@ -1,0 +1,6 @@
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\Generics.exe.config
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\Generics.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Generics\Generics\bin\Debug\Generics.pdb
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Generics\Generics\obj\Debug\Generics.exe
+c:\users\мухамедьян\documents\visual studio 2017\Projects\Generics\Generics\obj\Debug\Generics.pdb
